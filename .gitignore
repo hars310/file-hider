@@ -11,3 +11,6 @@ target/
 
 # Ignore logs and temporary files
 *.log
+.env
+
+src/main/java/*.class
